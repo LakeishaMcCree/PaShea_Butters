@@ -1,0 +1,2 @@
+rootProject.name = "PaShea"
+include ':app'
